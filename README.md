@@ -1,3 +1,4 @@
 ## 團隊成員
 
- - Kate
+- Kate
+- Doreen 翠翠翠
