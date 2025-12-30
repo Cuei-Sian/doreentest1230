@@ -1,2 +1,3 @@
-# doreentest1230
-NO2練習GIT任務
+## 團隊成員
+
+ - Kate
